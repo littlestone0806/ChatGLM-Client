@@ -1,4 +1,5 @@
 官方ChatGLM-6B仓库：https://github.com/THUDM/ChatGLM-6B
+winform控件仓库：https://github.com/kwwwvagaa/NetWinformControl
 
 基于winform编写了一个美观的ChatGLM客户端，支持流式输出，兼容官方api
 ![录制_2023_04_18_16_24_50_283](https://user-images.githubusercontent.com/42195561/232732815-1a33fb48-aa08-4e88-9278-d72439a3f035.gif)
