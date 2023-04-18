@@ -1,0 +1,70 @@
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\GPT3-BOT.exe.config
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\GPT3-BOT.exe
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\GPT3-BOT.pdb
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\HZH_Controls.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\OpenAI_API.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\OpenAI_API.xml
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\obj\Release\GPT3_BOT.FrmMain.resources
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\obj\Release\GPT3_BOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.csproj.CopyComplete
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.exe
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.pdb
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\GPT3-BOT.exe.config
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\GPT3-BOT.exe
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\GPT3-BOT.pdb
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\HZH_Controls.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\Newtonsoft.Json.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\OpenAI_API.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Buffers.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Memory.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Numerics.Vectors.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Text.Encodings.Web.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Text.Json.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.ValueTuple.dll
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\Newtonsoft.Json.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\OpenAI_API.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Buffers.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Memory.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Numerics.Vectors.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Text.Encodings.Web.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Text.Json.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\bin\Release\System.ValueTuple.xml
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.csproj.AssemblyReference.cache
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.csproj.SuggestedBindingRedirects.cache
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\obj\Release\GPT3_BOT.FrmMain.resources
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\obj\Release\GPT3_BOT.Properties.Resources.resources
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.csproj.GenerateResource.cache
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.csproj.CoreCompileInputs.cache
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.csproj.CopyComplete
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.exe
+D:\C# workspace\生活\GPT3-BOT\GPT3-BOT\obj\Release\GPT3-BOT.pdb
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Buffers.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Memory.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Text.Json.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Buffers.xml
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Memory.xml
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.Text.Json.xml
+C:\Users\Administrator\Desktop\myGPT\GPT3-BOT\GPT3-BOT\bin\Release\System.ValueTuple.xml
